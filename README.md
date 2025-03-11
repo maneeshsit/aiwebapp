@@ -1,6 +1,6 @@
 # aiwebapp
 Build an AI Web Application
-# CLI Commands
+# CLI CommandS
 npm install  express multer dotenv @google/generative-ai @google/generative-ai/server
-# CLI Commands
+# Command
 node server.js
